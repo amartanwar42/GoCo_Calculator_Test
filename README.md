@@ -22,6 +22,10 @@ This automation framework covers the following test cases for calculator
 - `npm install`
 - `npm run test`
 
+## Report from last run
+
+![Screenshot](report.png)
+
 ## Test cases
 
 - Verify if all the number are correctly displayed upon click. (0-9)
